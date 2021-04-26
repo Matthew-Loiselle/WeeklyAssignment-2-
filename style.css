@@ -1,0 +1,23 @@
+#pagetitle {
+  text-align: center;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#firstheader {
+  text-align: center;
+}
+
+#test {
+  font-size: 110%;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+body {
+  background-color: #ceeeea;
+}

@@ -29,15 +29,12 @@ body {
 }
 
 #accomplishments {
-  font-size: 125%;
-  background-color: white;
-}
-
-#accomplishments {
   border: 1px solid black;
   border-collapse: collapse;
   margin-left: 125px;
   margin-right: 125px;
+  font-size: 125%;
+  background-color: white;
 }
 
 #secondheader {
